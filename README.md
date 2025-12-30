@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering & Web development**
 
-- 👨‍💻 All of my projects are available at [anandtp.ccbp.tech](anandtp.ccbp.tech)
+- 👨‍💻 All of my projects are available at [anandtp.ccbp.tech](anand-robo.netlify.app)
 
 - 📫 How to reach me **anandtp11@gmail.com**
 
