@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robo-github&label=Profile%20views&color=0e75b6&style=flat" alt="robo-github" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering & Web development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at ([anand-robo.netlify.app](https://anand-robo.netlify.app/))
 
