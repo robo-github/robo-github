@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at ([anand-robo.netlify.app](https://anandtp.netlify.app/))
+- 👨‍💻 All of my projects are available at ([anandtp.netlify.app](https://anandtp.netlify.app/))
 
 - 📫 How to reach me **anandtp11@gmail.com**
 
