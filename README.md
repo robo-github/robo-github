@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at ([anandtp.netlify.app](https://anandtp.netlify.app/))
 
-- 📫 How to reach me **anandtp11@gmail.com**
+- 📫 How to reach me **anandpramod11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
